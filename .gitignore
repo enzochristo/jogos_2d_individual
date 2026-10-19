@@ -1,0 +1,39 @@
+# Unity - pastas geradas automaticamente
+My8Way/[Ll]ibrary/
+My8Way/[Tt]emp/
+My8Way/[Oo]bj/
+My8Way/[Bb]uild/
+My8Way/[Bb]uilds/
+My8Way/[Ll]ogs/
+My8Way/[Uu]ser[Ss]ettings/
+My8Way/[Mm]emoryCaptures/
+My8Way/[Rr]ecordings/
+
+# Arquivos de projeto gerados pela IDE
+My8Way/*.csproj
+My8Way/*.sln
+My8Way/*.slnx
+My8Way/*.suo
+My8Way/*.user
+My8Way/*.userprefs
+My8Way/*.pidb
+My8Way/*.booproj
+My8Way/.vs/
+My8Way/.vscode/
+My8Way/.idea/
+My8Way/.gradle/
+
+# Crash logs / builds
+My8Way/sysinfo.txt
+My8Way/crashlytics-build.properties
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Asset meta de dados de debug
+My8Way/Assets/AssetStoreTools*
+
+# SO
+.DS_Store
+Thumbs.db
